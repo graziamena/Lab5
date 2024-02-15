@@ -14,8 +14,8 @@ Exercise D:
 Here we worked with Arrays and Functions
 
 ## Team Members
-|   Name     |
-|------------|
-| Jolie Jony |
-| Grazia Mena|
+|   Name     |   Name     |
+|------------| -----------|         |
+||Jolie Jony | 30172759   |
+| Grazia Mena| 30173423   |     
 
